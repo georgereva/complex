@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Admin\Desktop\Class Complex\Class Complex\complex.h(39): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\Class Complex\Class Complex\complex.h(111): warning C4717: operator>>: рекурсия на всех путях выполнения, функция вызовет переполнение стека
+  Class Complex.vcxproj -> C:\Users\Admin\Desktop\Class Complex\Debug\Class Complex.exe
